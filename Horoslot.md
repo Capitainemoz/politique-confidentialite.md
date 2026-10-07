@@ -17,4 +17,4 @@ L'Application ne collecte sciemment aucune information, quelle qu'elle soit, aup
 Cette politique de confidentialité peut être mise à jour de temps à autre pour refléter d'éventuels changements apportés à l'Application. Nous vous conseillons de consulter cette page périodiquement pour prendre connaissance de toute modification. Les modifications entrent en vigueur dès leur publication sur cette page.
 6. Nous contacter
 Si vous avez des questions ou des suggestions concernant cette politique de confidentialité, n'hésitez pas à nous contacter à l'adresse suivante :
-•	E-mail : mozredaction@yahoo.ca
+E-mail : mozredaction@yahoo.ca
