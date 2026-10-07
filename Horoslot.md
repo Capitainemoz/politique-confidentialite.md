@@ -1,6 +1,6 @@
 Dernière mise à jour : 7 octobre 2026
 
-La présente politique de confidentialité s'applique à l'application Hypnoballs (ci-après dénommée l'« Application »), développée par Jérôme Fachon (ci-après dénommé le « Développeur »).
+La présente politique de confidentialité s'applique à l'application Horoslot (ci-après dénommée l'« Application »), développée par Jérôme Fachon (ci-après dénommé le « Développeur »).
 Cette page est conçue pour informer les utilisateurs des politiques du Développeur concernant la collecte, l'utilisation et la divulgation de données personnelles.
 1. Collecte et utilisation des données
 Le Développeur accorde une grande importance à votre vie privée. L'Application ne collecte, n'enregistre, ne traite ni ne partage aucune donnée personnelle concernant ses utilisateurs.
